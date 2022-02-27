@@ -1,4 +1,4 @@
 package guru.springframework.sfgpetclinic.entities;
 
-public class Vet {
+public class Vet extends BaseEntity {
 }

@@ -1,4 +1,4 @@
 package guru.springframework.sfgpetclinic.entities;
 
-public class Owner {
+public class Owner extends  Person {
 }
