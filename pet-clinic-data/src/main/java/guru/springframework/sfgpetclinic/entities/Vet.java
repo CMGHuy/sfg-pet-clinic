@@ -1,4 +1,8 @@
 package guru.springframework.sfgpetclinic.entities;
 
-public class Vet extends BaseEntity {
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+public class Vet extends Pet {
+
 }
